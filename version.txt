@@ -10,3 +10,7 @@ CAMBIOS:
 *Varios jugadores nuevos añadidos
 *Stats actualizados
 *Correccion de Faces
+
+RECUERDA ELIMINAR EL EDIT
+   DE LA CARPETA SAVE
+EN CADA ACTUALIZACION ♥
