@@ -1,2 +1,12 @@
-Version 0.0.0.01
-Fecha 03/09/26
+Version 0.0.0.02
+Fecha 04/09/26
+
+CAMBIOS:
+
+*Equipos Actualizados*
+- FC Barcelona 
+- Inter Miami 
+- Chicago Fire 
+*Varios jugadores nuevos añadidos
+*Stats actualizados
+*Correccion de Faces
