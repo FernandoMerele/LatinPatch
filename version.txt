@@ -1,16 +1,25 @@
 Version 0.0.0.02
-Fecha 04/09/26
+Fecha 05/09/26
 
 CAMBIOS:
 
 *Equipos Actualizados*
-- FC Barcelona 
+- Arsenal + Juveniles
+- Aston Villa + Juveniles
+- Afc Bournemouth + Juveniles
+- Brighton y Hove + Juveniles
+- Manchester City + Juveniles
+- Liverpool + Juveniles
+- Tottenham + Juveniles
 - Inter Miami 
-- Chicago Fire 
+- Chicago Fire
+- Los Angeles
+- Real Madrid + Juveniles
+- Barcelona + Juveniles
+- Internazionale + Juveniles
+- AC Milan + Juveniles
+
 *Varios jugadores nuevos añadidos
+*Varios fichajes nuevos añadidos
 *Stats actualizados
 *Correccion de Faces
-
-RECUERDA ELIMINAR EL EDIT
-   DE LA CARPETA SAVE
-EN CADA ACTUALIZACION ♥
