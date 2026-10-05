@@ -1,25 +1,37 @@
 Version 0.0.0.02
-Fecha 05/09/26
+Fecha 05/10/26
 
 CAMBIOS:
 
 *Equipos Actualizados*
-- Arsenal + Juveniles
-- Aston Villa + Juveniles
-- Afc Bournemouth + Juveniles
-- Brighton y Hove + Juveniles
-- Manchester City + Juveniles
-- Liverpool + Juveniles
-- Tottenham + Juveniles
-- Inter Miami 
-- Chicago Fire
-- Los Angeles
-- Real Madrid + Juveniles
-- Barcelona + Juveniles
-- Internazionale + Juveniles
-- AC Milan + Juveniles
+- Juventus + Juveniles
+- Paris Saint G + Juveniles
+- Monterrey + Juveniles
+- Nashville
+- Monaco
+- Olympique Marseille
+- Independiente
+- Kawasaki Frontale
+- Argentinos Juniors
+- Villareal
+- Ipswich Town
+- Hull City
+- Boca Juniors
+- River Plate
+
+- Suiza
+- Republica Checa
+- Irlanda
+- Escocia
+
+*Nuevas Selecciones*
+- Canada
+- Cabo Verde
+- El Salvador
 
 *Varios jugadores nuevos añadidos
 *Varios fichajes nuevos añadidos
 *Stats actualizados
 *Correccion de Faces
+*Varios jugadores eliminados
+(Eliminado aprox +300)
